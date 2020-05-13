@@ -13,5 +13,5 @@ in sync branches
 
 This is for local change
 
-webhook update 10
+webhook update 1
 
