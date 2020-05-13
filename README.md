@@ -14,7 +14,3 @@ in sync branches
 This is for local change
 webhook
 
-changes
-
-again
-
